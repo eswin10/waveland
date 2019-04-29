@@ -1,0 +1,553 @@
+/*@import url('https://fonts.googleapis.com/css?family=Knewave');
+@import url('https://fonts.googleapis.com/css?family=Knewave|Rock+Salt');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Shadows+Into+Light');
+@import url('https://fonts.googleapis.com/css?family=Lobster|Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans|Bubbler+One|Kaushan+Script|Marck+Script');
+@import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans|Cute+Font');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Kaushan+Script');
+@import url('https://fonts.googleapis.com/css?family=Dokdo|Song+Myung'); */
+
+@import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans|Dancing+Script|Knewave');
+
+
+
+/* FIRST PAGE */
+
+
+#page1
+h1{
+    text-align: center;
+    font-family: 'Knewave', cursive;
+}
+img {
+    display: block;
+    height:auto;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    z-index: 0;
+}
+h5{
+    text-align: center;
+     color: rgb(199,294,219);
+     font-size:100%;
+}
+
+#tag-line-1{
+    background-color: rgb(255,218,185)
+}
+
+#tag-line-2{
+    background-color: rgb(85,153,195)
+}
+    
+h4{ text-align: center;
+
+}
+
+
+
+h3{ text-align: center;}
+
+.wavequotes{
+    text-align: center;
+   font-family: 'Dancing Script', cursive;
+font-size: larger
+}
+
+ul{
+    display:flex;
+    flex-wrap:nowrap;
+    overflow: hidden;
+}
+
+li {
+    margin-right: 10%;
+}
+
+.overlay{
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left:35%;
+    background-color:rgb(255,218,185,0.9);
+    font-family: 'Bubblegum Sans', cursive;
+font-size: larger;
+}
+h2{
+    text-align:center;
+   
+}
+
+.ol-bottom{
+    text-align: center;
+    font-size: larger
+}
+
+
+/* SECOND PAGE */
+
+
+#page2
+
+#gallery{
+    text-align: center; 
+    color: rgb(102,109,299);
+    font-weight: bolder;
+}
+.home-top{text-align: center;
+font-family: 'Knewave', cursive;
+color: rgb(199,294,219);
+
+}
+.home-h2{ font-family: 'Dancing Script', cursive;
+}
+
+#archive-statement{
+    color: rgb(255,218,185);
+    font-style:italic;
+    font-weight: bolder;
+}
+
+.nav-bar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(205,205,205);
+    list-style: none;
+    list-style-position: none;
+    
+}
+
+.bar-items{
+    float: auto;
+    list-style-type:none;
+    margin:0;
+    padding: 0;
+    
+}
+
+.bar-items a {
+    display: block;
+    color: rgb(226,160,255);
+    text-decoration: none;
+    text-align: center;
+   
+}
+
+.gallery-wave-1{
+    display: flex;
+    flex-wrap:nowrap;
+}
+#weatherspoon{
+    width: 20%
+    
+}
+#santacruz{
+    width: 20%
+}
+#watercassette{
+width: 20%
+}
+
+.watersporting{
+    display:flex;
+   
+}
+
+#two-vs{
+    width: 30%
+}
+
+#watersitting{
+    width:15%;
+}
+
+#monopoly{
+    width: 100;
+}
+
+.wavesgroup{
+    display: flex;
+    
+}
+
+.waterlust{
+    display: flex;
+}
+
+.kaws{
+    display:flex;
+    flex-wrap:nowrap;
+}
+
+.bartsco{
+    display: flex;
+    flex-wrap:nowrap;
+}
+
+#escobar{
+    width:30%;
+}
+
+#chanel{
+    width:25%;
+}
+
+.art-toon-drip{
+  display:flex;
+  flex-wrap:nowrap;
+}
+
+.artsy{
+    display: flex;
+    flex-wrap:nowrap
+}
+
+#kh{
+    width:100%
+}
+
+.hate-90{
+    text-align: center;
+}
+
+.stussy{
+    width: 50%
+}
+
+.ghostnike{
+    width: 50%
+}
+
+
+
+
+/*  THIRD PAGE  */
+
+
+    
+#page3
+.women-top
+{text-align: center;
+color:rgb(255,218,185);
+font-family: 'Knewave', cursive;
+font-family: 'Bubblegum Sans', cursive;
+font-family: 'Dancing Script', cursive;
+    
+}
+
+.elite-select{
+    color: rgb(255,218,185);
+font-family: 'Bubblegum Sans', cursive;
+}
+
+#firekicks{
+    z-index: 1;
+    position: absolute;
+    left: 52%;
+    font-size:larger;
+    font-weight: bolder;
+    color: rgb(102,109,299)
+    
+}
+
+.firekicks-image{
+    display: block;
+    z-index: 0;
+    position:relative;
+    width: 50%;
+    left: 30%;
+    border-bottom: groove;
+    border-bottom-width: thick;
+    border-bottom-color: rgb(102,109,299);
+    
+    
+}
+
+.kicks{
+    display: flex;
+    flex-wrap:nowrap;
+     border-bottom: groove;
+    border-bottom-width: thick;
+    border-bottom-color: rgb(102,109,299);
+}
+
+#fila-ladies{
+    width: 40%
+}
+
+#vmfk-ladies{
+    width: 65%
+}
+
+.streetwearlady{
+width: 50%    
+}
+
+
+/* FOURTH PAGE  */
+
+
+
+#page4
+.mens-top{text-align: center;
+font-family: 'Knewave', cursive;
+   font-family: 'Bubblegum Sans', cursive;
+font-family: 'Dancing Script', cursive;
+color: rgb(2,178,299);
+}
+
+.elite-select{
+    color: rgb(255,218,185);
+    
+font-family: 'Bubblegum Sans', cursive;
+}
+
+.fire-kicks-tag{
+    position: absolute;
+    z-index: 1;
+    left: 40%;
+    font-size:larger;
+    font-weight: bolder;
+    color: rgb(102,109,299)
+    
+}
+
+#waveman-kicks{
+    position: relative;
+    z-index: 0;
+    width: 45%;
+    left: 25%;
+ border-bottom: groove;
+    border-bottom-width: thick;
+    border-bottom-color: rgb(102,109,299);
+}
+
+#kicks{
+    display: flex;
+    flex-wrap:nowrap;
+    
+}
+
+.mens-sketch{
+    width:30%;
+}
+
+/*  FIFTH PAGE  */
+
+
+
+#page5
+
+.retro-top{text-align: center;
+font-family: 'Knewave', cursive;
+ font-family: 'Bubblegum Sans', cursive;
+}
+
+#clothesline{
+    width: 45%;
+    display:block;
+    margin-left:28%;
+}
+
+.retrotag{
+  font-family: 'Dancing Script', cursive;
+text-align: center;
+font-weight: bold;
+font-size:large;
+color: rgb(102,109,299);
+
+}
+
+#punk-noir{
+    height: 95%
+}
+
+.oldie-beach{
+    display:flex;
+    flex-wrap:nowrap;
+}
+
+.snowbeaches{
+    display:flex;
+}
+.romenju{
+    display:flex;
+}
+#snowb-1{
+    width:40%;
+}
+
+#snowb-2{
+    width:80%;
+}
+
+.retrokicks{
+ display:flex;
+ flex-wrap:nowrap;
+}
+
+.tommy-fila{
+    display:flex;
+    flex-wrap:nowrap;
+}
+
+.blackfashion{
+    display:flex;
+    flex-wrap:nowrap;
+    
+}
+
+.pointbreak{
+    display: flex;
+    flex-wrap:nowrap;
+    width: 50%;
+    height: 50%;
+}
+
+.windbreakers{
+    display: flex;
+    flex-wrap:nowrap;
+}
+
+#wb-2{
+    width: 20%;
+    height: 40%
+}
+
+#wb-1{
+    width: 20%
+}
+
+.pulpfiction{
+    display: flex;
+    flex-wrap:nowrap;
+    flex-diretion: column;
+}
+
+#romper{
+    width: 30%
+}
+
+#alleniquest{
+    width: 50%
+}
+
+.tommy-hill{
+    display: flex;
+    flex-wrap:nowrap;
+}
+
+.tommy-hill-2{
+    display: flex;
+    flex-wrap:nowrap;
+}
+#th-2{
+    width: 75%
+}
+
+#th-4{
+    width: 50%
+}
+
+#th-5{
+    width: 50%
+}
+
+#th-6{
+    width: 50%
+}
+
+
+.tour-t{
+    font-style: italic;
+    font-weight: bold;
+    font-size: larger;
+    color: rgb(2,178,299);
+}
+
+.snowbeez{
+     font-style: italic;
+    font-weight: bold;
+    font-size: larger;
+    color: rgb(2,178,299);
+}
+
+.pointb{
+     font-style: italic;
+    font-weight: bold;
+    font-size: larger;
+    color: rgb(2,178,299);
+}
+
+.tommyh{
+     font-style: italic;
+    font-weight: bold;
+    font-size: larger;
+    color: rgb(2,178,299);
+}
+
+.ogkicks{
+     font-style: italic;
+    font-weight: bold;
+    font-size: larger;
+    color: rgb(2,178,299);
+}
+
+.pulp{
+     font-style: italic;
+    font-weight: bold;
+    font-size: larger;
+    color: rgb(2,178,299);
+}
+
+.r-n-j{
+     font-style: italic;
+    font-weight: bold;
+    font-size: larger;
+    color: rgb(2,178,299);
+}
+
+
+/*  SIXTH PAGE  */
+
+
+#page6
+
+.playlist-top{text-align: center;
+    font-family: 'Knewave', cursive;
+font-family: 'Dancing Script', cursive;
+}
+
+#sound-font{
+    font-family: 'Bubblegum Sans', cursive;
+}
+footer{
+    text-align: center;
+    font-style:oblique;
+    color: rgb(227,23,27);
+    font-family: 'Dancing Script', cursive;
+font-family: 'Knewave', cursive;
+    
+    
+}
+
+.hotpicks{
+    width: 50%;
+    margin-left: 25%
+}
+
+
+.tunes{
+     font-family: 'Bubblegum Sans', cursive;
+     font-family: 'Dancing Script', cursive;
+    display:block;
+    color: rgb(227,13,24);
+    text-align: center;
+    vertical-align: middle;
+    font-size: large
+    
+}
